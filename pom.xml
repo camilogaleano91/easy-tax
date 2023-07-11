@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ch.zhaw</groupId>
-	<artifactId>project-4</artifactId>
+	<artifactId>easy-tax</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>project-4</name>
-	<description>Leistungsnachweis 4</description>
+	<name>easy-tax</name>
+	<description></description>
 	<properties>
 		<java.version>19</java.version>
         <maven.compiler.source>19</maven.compiler.source>
