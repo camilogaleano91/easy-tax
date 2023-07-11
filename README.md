@@ -1,2 +1,5 @@
-#easy-tax#
-tax app simplifying file uploads
+#easy-tax
+
+---
+
+this is a project that simplifies file uploads for tax companies
