@@ -2,4 +2,4 @@
 
 ---
 
-this is a small project that simplifies file uploads for tax companies
+this is a small project that mocks the collaboration between tax consultants and his/her clients
